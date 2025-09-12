@@ -1,0 +1,9 @@
+My Git Workflow for this Project:
+
+1. git init - Initializes a new Git repository in my project folder.
+2. git add . - Stages all the new and modified files (like index.php, register.php, etc.) to be committed.
+3. git commit -m "Initial commit: Set up user registration form" - Saves the first version of my project with a descriptive message.
+4. git commit -m "Feature: Added email validation and PHPMailer welcome email" - Saves the changes after completing Part I.
+5. git commit -m "Feature: Implemented database saving and user list display" - Saves the changes after completing Part II.
+6. git remote add origin <YOUR_GITHUB_REPO_LINK> - Connects my local repository to the remote one on GitHub.
+7. git push -u origin main - Pushes all my committed changes to GitHub.
